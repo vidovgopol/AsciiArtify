@@ -4,3 +4,4 @@ Loggin to ArgoCD:
 
 Add your app to ArgoCD:
 
+![APP Add](https://github.com/vidovgopol/AsciiArtify/blob/main/doc/argo sync.png)
