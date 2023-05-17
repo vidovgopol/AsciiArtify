@@ -1,8 +1,6 @@
-Start
+Loggin to ArgoCD:
 
 ![Loggin](https://github.com/vidovgopol/AsciiArtify/blob/main/doc/argo_login.png)
 
-![My animated logo](doc/argo_login.png)
+Add your app to ArgoCD:
 
-
-https://github.com/vidovgopol/AsciiArtify/blob/main/doc/argo_login.png
