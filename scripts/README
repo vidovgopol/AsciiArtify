@@ -1,0 +1,6 @@
+pods kube-system coredns-597584b69b-r8r58 2m 18Mi
+pods kube-system local-path-provisioner-79f67d76f8-2z79w 1m 11Mi
+pods kube-system metrics-server-5f9f776df5-qj49p 6m 24Mi
+pods kube-system svclb-traefik-3f0693c4-lzhgw 0m 2Mi
+pods kube-system svclb-traefik-3f0693c4-srchj 0m 1Mi
+pods kube-system traefik-66c46d954f-2gbnp 1m 33Mi
